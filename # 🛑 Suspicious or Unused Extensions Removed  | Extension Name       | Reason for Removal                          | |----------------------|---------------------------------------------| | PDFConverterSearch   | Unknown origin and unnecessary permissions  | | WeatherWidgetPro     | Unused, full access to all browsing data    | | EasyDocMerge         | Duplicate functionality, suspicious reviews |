@@ -1,0 +1,8 @@
+# 🛑 Suspicious or Unused Extensions Removed
+
+| Extension Name       | Reason for Removal                          |
+|----------------------|---------------------------------------------|
+| PDFConverterSearch   | Unknown origin and unnecessary permissions  |
+| WeatherWidgetPro     | Unused, full access to all browsing data    |
+| EasyDocMerge         | Duplicate functionality, suspicious reviews |
+
